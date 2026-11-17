@@ -248,7 +248,7 @@ zetaglobal.net, 525, RESELLER
 zmaticoo.com, 5135195, RESELLER
 
 # BIGO Ads, app 11898516 (BIGO Dashboard > Inventory > APP-ads.txt, 2026-11-17)
-bigo.sg, n8ywtwz6r7, DIRECT
+bigo.sg, c9mem7bfd7, DIRECT
 
 # BIGO Ads authorized sellers (lines already listed above are not repeated)
 bigo.sg, q9hk29ki8d, RESELLER
